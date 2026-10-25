@@ -1,0 +1,21 @@
+{
+  "corpus": "cppcoreguidelines",
+  "cloned_at": "2026-10-24T14:04:53Z",
+  "repos": [
+    {
+      "repo": "CppCoreGuidelines",
+      "url": "https://github.com/isocpp/CppCoreGuidelines.git",
+      "licence": "MIT",
+      "sha": "33bcd015997f0d8e0fa0202eb66254a16f59ad8f",
+      "files": 49,
+      "bytes": 13865283,
+      "review": {
+        "spdx": "MIT",
+        "use": "adapt-with-attribution",
+        "by": "@bebac",
+        "at": "2026-10-24",
+        "note": "LICENSE file at repo root is MIT (Bjarne Stroustrup et al). Confirmed by opening https://github.com/isocpp/CppCoreGuidelines/blob/master/LICENSE"
+      }
+    }
+  ]
+}

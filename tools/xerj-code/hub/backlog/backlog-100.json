@@ -13456,6 +13456,28 @@
      "agents"
     ]
    }
+  },
+  {
+   "cat": "API",
+   "domain": "an agent writing or reviewing C++ code queries this for the rule of five, smart pointer ownership, coroutine safety, const correctness, and resource management conventions",
+   "lane": "A",
+   "refresh": "pinned",
+   "slug": "cppcoreguidelines",
+   "sources": [
+    {
+     "licence_hint": "MIT (verify at pin)",
+     "url": "https://github.com/isocpp/CppCoreGuidelines.git"
+    }
+   ],
+   "status": "candidate",
+   "tags": {
+    "region": "GLOBAL",
+    "topics": [
+     "cpp",
+     "design",
+     "language"
+    ]
+   }
   }
  ],
  "lanes": [
